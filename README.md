@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Vocational High School Student<br>📚 I'm currently learning Laravel<br>🎯 Goals: Become Software Engineer<br>🎲 Fun fact: Enggan Mengoding<br>Website : https://dev.dioo.my.id</p>
+<p align="left">✨ Vocational High School Student<br>📚 I'm currently learning Laravel<br>🎯 Goals: Become Software Engineer<br>🎲 Fun fact: Enggan Mengoding<br>Website : https://dioo.my.id</p>
 
 ###
 
