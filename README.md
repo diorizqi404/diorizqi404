@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">Hi 👋 I'm Dio Rizqi</h1>
+<h1 align="left">Io.</h1>
 
 ###
 
-<p align="left">✨ Vocational High School Student<br>📚 I'm currently learning Laravel<br>🎯 Goals: Become Software Engineer<br>🎲 Fun fact: Enggan Mengoding<br>Website : soon</p>
+<p align="left">udahgituaja</p>
 
 ###
 
@@ -54,22 +54,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://linkedin.com/in/diorizqi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@diorizqi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default&username=diorizqi" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/diorizqi404/count.svg?"  />
